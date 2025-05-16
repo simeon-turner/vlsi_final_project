@@ -3,8 +3,8 @@
 	<active>Active Setup</active>
 	<history>History
 		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
-			<timestamp>May 16 01:55:30 2025</timestamp>
-			<uuid>{ac02944f-f6c9-4122-907c-805817aa72db}</uuid>
+			<timestamp>May 16 03:34:13 2025</timestamp>
+			<uuid>{428cc305-8de1-44e9-9342-98a32e9c33de}</uuid>
 			<locked>0</locked>
 			<mode>Single Run, Sweeps and Corners</mode>
 			<resultsname>/home/smt259/ece4740/vlsi_final_project/vlsi_final/comb_8b_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>

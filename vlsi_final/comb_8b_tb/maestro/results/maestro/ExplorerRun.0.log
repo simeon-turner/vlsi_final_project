@@ -1,6 +1,6 @@
 Starting Single Run, Sweeps and Corners...
 
-Current time: Fri May 16 01:55:30 2025 
+Current time: Fri May 16 03:34:13 2025 
 Best design point: 1
 Design specs: 
 	final_stuff_comb_8b_tb_1	corner	Nominal - 
@@ -10,4 +10,4 @@ ExplorerRun.0
 Number of points completed: 1
 Number of simulation errors: 0
 ExplorerRun.0 completed. 
-Current time: Fri May 16 02:18:49 2025 
+Current time: Fri May 16 03:35:53 2025 
