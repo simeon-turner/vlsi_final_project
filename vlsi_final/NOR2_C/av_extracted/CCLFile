@@ -22,13 +22,13 @@ filter_res \
 	 -merge_parallel_res false \
 	 -min_res 0.001
 input_db -type pegasus \
-	 -design_cell_name "multiplier_v4 layout vlsi_final" \
+	 -design_cell_name "NOR2_T layout labs" \
 	 -directory_name "/home/smt259/ece4740/lvs/svdb" \
 	 -format "DFII" \
 	 -library_definitions_file "/home/smt259/ece4740/cds.lib" \
-	 -run_name "multiplier_v4"
+	 -run_name "NOR2_T"
 log_file \
-	 -file_name "/home/smt259/ece4740/lvs/svdb/qrc.multiplier_v4.log"
+	 -file_name "/home/smt259/ece4740/lvs/svdb/qrc.NOR2_T.log"
 output_db -type extracted_view \
 	 -cap_component "pcapacitor" \
 	 -cap_property_name "c" \
@@ -47,7 +47,7 @@ output_db -type extracted_view \
 	 -view_name "av_extracted"
 output_setup \
 	 -directory_name "/home/smt259/ece4740/lvs/svdb" \
-	 -temporary_directory_name "multiplier_v4"
+	 -temporary_directory_name "NOR2_T"
 process_technology \
 	 -technology_corner \
 		"rcx_typical" \
